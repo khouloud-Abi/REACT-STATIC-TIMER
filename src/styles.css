@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+p {
+  font-size: 50px;
+}
+
+.Timer-property {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 163px;
+  margin-top: -75px;
+  width: 190px;
+  color: rgb(187, 176, 176);
+}
